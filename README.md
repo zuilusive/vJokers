@@ -5,6 +5,8 @@ What if VTubers become Balatro jokers?
 
 This mod adds VTubers turned jokers, with abilities inspired from their respective lore, interactions, memes, or other notable features!
 
+![showcase1](https://github.com/user-attachments/assets/72249723-f0ba-4e9e-b2af-46b89d8fd0e0)
+
 v1.0.0 introduces 15 vJokers from Hololive, with 5 jokers from each branch!
 > HoloJP: Sakura Miko, Akai Haato, Ookami Mio, Usada Pekora, Shishiro Botan
 > 
@@ -39,6 +41,8 @@ Check out my [Twitch](https://www.twitch.tv/zuilusive), where I stream indie gam
 > 15 new vJokers based on Indie VTubers and Hololive VTubers
 
 ## Feedback
+Use this form below to submit your feedback or issues you have encountered with the mod!
+[Feedback / Issues reporting](https://forms.gle/FGkWE8vyyjuQruK18)
 
 ## Credits
 
