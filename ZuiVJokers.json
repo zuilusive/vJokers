@@ -10,8 +10,8 @@
     "badge_colour": "AA7ECE",
     "badge_text_colour": "FFFFFF",
     "dependencies": [
-        "Steamodded (>=1.0.0~ALPHA-1428c)",
-        "Talisman (>=1.1)"
+        "Steamodded (>=1.0.0~BETA-0306a)",
+        "Talisman (>=2.1.0)"
     ],
     "version": "1.0.0"
 }
