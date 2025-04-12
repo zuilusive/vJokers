@@ -1,0 +1,17 @@
+{
+    "id": "Zui_v_Jokers",
+    "name": "Zui's vJokers",
+    "author": ["ZuiLusiVe"],
+    "display_name": "Zui's vJokers",
+    "description": "A mod project featuring Vtubers as jokers! Current version includes 15 vJokers based on Hololive talents and alumni! Mod and assets by ZuiLusiVe, follow me on Twitter, Bsky, and Twitch!",
+    "prefix": "zvjk",
+    "priority": 0,
+    "main_file": "ZuiVJokers.lua",
+    "badge_colour": "AA7ECE",
+    "badge_text_colour": "FFFFFF",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1428c)",
+        "Talisman (>=1.1)"
+    ],
+    "version": "1.0.0"
+}
