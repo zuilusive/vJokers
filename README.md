@@ -12,7 +12,7 @@ v1.0.0 introduces 15 vJokers from Hololive, with 5 jokers from each branch!
 > 
 > HoloEN: Ceres Fauna, Hakos Baelz, Ouro Kronii, Nanashi Mumei, Koseki Bijou
 > 
-> HoloID: Moona Hoshinova, Ariani Iofifteen, Vestia Zeta, Kobo Kanaeru, Kaela Kovalskia
+> HoloID: Moona Hoshinova, Airani Iofifteen, Vestia Zeta, Kobo Kanaeru, Kaela Kovalskia
 
 # Installation
 
