@@ -1,4 +1,4 @@
-# vJokers
+# Zui's vJokers
 A Balatro mod featuring VTubers, by a VTuber
 
 What if VTubers become Balatro jokers?
