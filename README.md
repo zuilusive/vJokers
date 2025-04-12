@@ -18,8 +18,8 @@ v1.0.0 introduces 15 vJokers from Hololive, with 5 jokers from each branch!
 
 Requires the following dependencies
 - Lovely injector
-- Steamodded `steamodded-1.0.0~ALPHA-1428c` or newer
-- Talisman `1.1.0~dev` or newer
+- Steamodded `steamodded-1.0.0~BETA-0306a` or newer
+- Talisman `2.1.0~dev` or newer
 
 Get the latest stable version here, and download and extract the zip
 
