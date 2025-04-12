@@ -137,7 +137,7 @@ return{
                     " ",
                     " ",
                     "{C:attention}Featured VTubers in this version{}",
-                    "{X:blue,C:white}HoloID{}: Moona Hoshinova, Ariani Iofifteen, Vestia Zeta, Kobo Kanaeru, Kaela Kovalskia",
+                    "{X:blue,C:white}HoloID{}: Moona Hoshinova, Airani Iofifteen, Vestia Zeta, Kobo Kanaeru, Kaela Kovalskia",
                     "{X:blue,C:white}HoloEN{}: Nanashi Mumei, Hakos Baelz, Ouro Kronii, Ceres Fauna, Koseki Bijou",
                     "{X:blue,C:white}HoloJP{}: Sakura Miko, Akai Haato, Ookami Mio, Usada Pekora, Shishiro Botan",
                     " ",
