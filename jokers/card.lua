@@ -484,7 +484,7 @@ SMODS.Joker{
         --Returning the mult
             return{
                 mult = card.ability.extra.mult,
-                message = localize{ type = 'variable', key = 'a_mult', vars = {card.ability.extra.mult}},
+                message = 'HAACHAMA?',
             }
         end
     end
