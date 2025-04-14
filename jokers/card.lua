@@ -474,15 +474,16 @@ SMODS.Joker{
             card.ability.extra.mult = card.ability.extra.mult + card.ability.extra.mult_mod
                 return{
                     message = 'HAACHAMA?',
+                    mult = card.ability.extra.mult,
                     card = card,
                 }
             end
         end
     
-        if context.joker_main and card.ability.extra.mult > 1 then
+        if context.joker_main and card.ability.extra.mult > 0 then
         --Returning the mult
             return{
-                mult_mod = card.ability.extra.mult,
+                mult = card.ability.extra.mult,
                 message = localize{ type = 'variable', key = 'a_mult', vars = {card.ability.extra.mult}},
             }
         end
