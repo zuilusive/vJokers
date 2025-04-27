@@ -120,7 +120,7 @@ return{
                 name = "Hakos Baelz",
                 text = {
                     "Each scored {C:attention}Jack{} has",
-                    "{C:green}#1# in #2#{} chance to create {C:spectral}Soul{} card and",
+                    "{C:green}#1# in #2#{} chance to create a {C:spectral}Soul{} card and",
                     "{C:green}#1# in #2#{} chance to be {C:attention}destroyed{} after scoring",
                     "{C:inactive}(Must have room){}"
                 }
