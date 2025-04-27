@@ -316,10 +316,12 @@ SMODS.Joker{
 		return { vars = { card.ability.extra.antes, card.ability.extra.extra_hands } }
 	end,
     add_to_deck = function(self, card, from_debuff)
+        G.GAME.round_resets.hands = G.GAME.round_resets.hands + card.ability.extra.extra_hands
        ease_hands_played(2)
        ease_ante(1)
     end,
     remove_from_deck = function(self, card, from_debuff)
+        G.GAME.round_resets.hands = G.GAME.round_resets.hands - card.ability.extra.extra_hands
         ease_hands_played(-2)
         ease_ante(-1)
     end
