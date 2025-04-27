@@ -52,4 +52,4 @@ Joker abilities based on suggestions made by members of the Hololive Fan Server
 ## Localisation
 
 - JA TBA
-- ID TBA
+- ID added in v1.0.2
