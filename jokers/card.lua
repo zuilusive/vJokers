@@ -8,16 +8,6 @@ SMODS.Rarity {
     default_weight = 0.08,
     pools = { ["Joker"] = true },
 }
--- rarity for Vshojo jokers
---SMODS.Rarity {
- --   key = 'vshojo',
-  --  loc_txt = {
-  --      name = 'VShojo'
-  --  },
-  --  badge_colour = HEX('F50F75'),
-  --  default_weight = 0.06,
-  --  pools = { ["Joker"] = true },
---}
 --rarity for Phase Connect jokers
 --SMODS.Rarity {
 --    key = 'phasec',
